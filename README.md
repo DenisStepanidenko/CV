@@ -1,2 +1,2 @@
 # CV
-My resume as a Java programmer will be collected here
+Здесь будет храниться моё резюме как Java разработчика :computer:
