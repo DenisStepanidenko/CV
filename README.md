@@ -23,7 +23,7 @@
 * *Прошёл курс по **Spring** от Alishev*
 * *Прошёл курс по **SQL** от DMdev*
 * *Изучаю **английский язык** по каналу на YouTube - "Английский язык по плейлистам"*
-* *В процессе курс по **Http.Servlets** от DMdev*
+* *Прошёл курс по **Http.Servlets** от DMdev*
 * *Тренирую алгоритмы на таких проектах, как **"Яндекс тренировки по алгоритмам"** и **"LeetCode"*** 
 # Интересные проекты :mortar_board:
 * [***Финальный проект в Java школе от ИТ-компании КРОК***](https://github.com/DenisStepanidenko/Croc-Java-2022/tree/master/src/ru/croc/finalproject) :fire:  
