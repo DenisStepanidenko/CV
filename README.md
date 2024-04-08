@@ -58,7 +58,7 @@
 * *Участник CodeRun Yandex, 1 сезон (250 место)* :white_check_mark:
 * *Участник офлайн мероприятия – Летний день стажёра от Яндекса 2023 ( прошёл алгоритмический контест из двух задач)* :white_check_mark:
 * *Призёр в команде олимпиады по спортивному программированию RuCode 2023* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/7NmplFCtaBU.jpg) ) :white_check_mark:
-* *Прохождение Яндекс Тренировок 4.0* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/7NmplFCtaBU.jpg) ) :white_check_mark:
+* *Прохождение Яндекс Тренировок 4.0* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/тренировки%204.0.pdf) ) :white_check_mark:
 
 # Олимпиады по математике и программированию в школьное время :musical_note:
 * *Призёр муниципального этапа Всероссийской олимпиады школьников по математике 2020 г.* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/призёр%20муниципаа.pdf)) :dragon_face:
