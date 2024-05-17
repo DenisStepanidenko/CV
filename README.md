@@ -2,7 +2,8 @@
 Здесь будет храниться моё резюме как Java разработчика :computer:
 
 # Личные данные :book:
-<image src = "/images/photo_2024-02-25_00-42-57.jpg" width = "400" />  
+![image](https://github.com/DenisStepanidenko/CV/assets/110686828/1cbb57f5-72a9-4b86-8c5d-ce31d69f00d0)
+
 
  *Степаниденко Денис Евгеньевич, 21 год, г. Москва, студент* :innocent:
 # Контактная информация :telephone:
