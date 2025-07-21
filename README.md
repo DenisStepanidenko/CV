@@ -3,20 +3,21 @@
 ![image](https://github.com/DenisStepanidenko/CV/assets/110686828/1cbb57f5-72a9-4b86-8c5d-ce31d69f00d0)
 
 
- *Степаниденко Денис Евгеньевич, 22 года* 
+*Степаниденко Денис Евгеньевич, 22 года* 
 # Контактная информация 
 * *Телеграмм - https://t.me/Denic_h* 
 * *Почта - stepanidenko.den@mail.ru*
 * *Телефон - 89803177123*
 
 # Образование 
+*Бакалавр*
 *ВУЗ*: **Российский экономический университет им. Г.В. Плеханова**  
 *Факультет*: **Высшая школа кибертехнологий, математики и статистики**  
 *Направление*: **Математическое обеспечение и администрирование информационных систем**  
 *Профиль*: **Системное и интернет-программирование**  
-[*Диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/Скан%20диплома.pdf)
-[*Отзыв научного руководителя*](https://github.com/DenisStepanidenko/CV/blob/master/images/отзыв%20научного%20руководителя.jpg)
-[*Рецензия*](https://github.com/DenisStepanidenko/CV/blob/master/images/рецензия_Степаниденко.pdf)
+[*Скан диплома*](https://github.com/DenisStepanidenko/CV/blob/master/images/Скан%20диплома.pdf)   
+[*Отзыв научного руководителя*](https://github.com/DenisStepanidenko/CV/blob/master/images/отзыв%20научного%20руководителя.jpg)    
+[*Рецензия*](https://github.com/DenisStepanidenko/CV/blob/master/images/рецензия_Степаниденко.pdf)    
 
 # Опыт работы
 * *с 2024 г. и по настоящее время работаю Java разработчиком в компании ООО "ГК "Иннотех" (входит в Холдинг T1)* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Степаниденко%20Д.Е%20СТД-Р%20Холдинг%20Т1.pdf))
