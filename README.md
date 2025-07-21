@@ -25,6 +25,7 @@
 * *Успешно прошёл программу курса **"Введение в язык Java и платформу разработки"** от ИТ-компании **КРОК*** ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/крок.pdf))
 * *Успешно прошёл онлайн-интенсив  **летнего ИТ-лагеря Холдинга T1** в период с 4 июня по 5 июля 2024 года по программе : **Разработка Backend (Java)*** ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/44-503075352.pdf))
 * *Успешно прошёл очный этап **летнего ИТ-лагеря Холдинга T1** в период с 27 августа по 1 сентября 2024 года по программе: **Разработка Backend (Java)*** ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/IT%20лагерь%2C%20очный%20этап.pdf))
+* *Прошёл зимнюю школу по компьютерным наукам НИУ ВШЭ* ([сертификат](https://github.com/DenisStepanidenko/CV/blob/master/images/Зимняя%20школа%20ВШЭ.pdf))
 * *Прошёл курс по **продвинутой Java** от Alishev и DMdev*
 * *Прошёл курс по **Spring** от Alishev*
 * *Прошёл курс по **SQL(PostgreSQL)** от DMdev*
@@ -76,7 +77,7 @@
 * *Призёр командной олимпиады RuCode 2023 (дивизион E-F)* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/7NmplFCtaBU.jpg))
 * *Победитель командной олимпиады RuCode 2024 (дивизион E-F)* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/RuCode%202024.png))
 * *Прохождение Яндекс Тренировок 4.0* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/тренировки%204.0.pdf) )
-* *Участник ICPC Moscow Regional Contest 2024*
+* *Участник ICPC Moscow Regional Contest 2024* ([подтверждение](https://github.com/DenisStepanidenko/CV/blob/master/images/ICPC.pdf))
 
 # Олимпиады по математике и программированию в школьное время 
 * *Призёр муниципального этапа Всероссийской олимпиады школьников по математике 2020 г.* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/призёр%20муниципаа.pdf)) 
