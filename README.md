@@ -15,6 +15,8 @@
 *Направление*: **Математическое обеспечение и администрирование информационных систем**  
 *Профиль*: **Системное и интернет-программирование**  
 [*Диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/Скан%20диплома.pdf)
+[*Отзыв научного руководителя*](https://github.com/DenisStepanidenko/CV/blob/master/images/отзыв%20научного%20руководителя.jpg)
+[*Рецензия*](https://github.com/DenisStepanidenko/CV/blob/master/images/рецензия_Степаниденко.pdf)
 
 # Опыт работы
 * *с 2024 г. и по настоящее время работаю Java разработчиком в компании ООО "ГК "Иннотех" (входит в Холдинг T1)* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Степаниденко%20Д.Е%20СТД-Р%20Холдинг%20Т1.pdf))
