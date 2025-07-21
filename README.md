@@ -26,6 +26,7 @@
 * *Успешно прошёл онлайн-интенсив  **летнего ИТ-лагеря Холдинга T1** в период с 4 июня по 5 июля 2024 года по программе : **Разработка Backend (Java)*** ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/44-503075352.pdf))
 * *Успешно прошёл очный этап **летнего ИТ-лагеря Холдинга T1** в период с 27 августа по 1 сентября 2024 года по программе: **Разработка Backend (Java)*** ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/IT%20лагерь%2C%20очный%20этап.pdf))
 * *Прошёл зимнюю школу по компьютерным наукам НИУ ВШЭ* ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/Зимняя%20школа%20ВШЭ.pdf))
+* *Участие в конференции Импульс Т1 2024 г.* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Конференция%20Импульс%20Т1.pdf))
 * *Прошёл курс по **продвинутой Java** от Alishev и DMdev*
 * *Прошёл курс по **Spring** от Alishev*
 * *Прошёл курс по **SQL(PostgreSQL)** от DMdev*
@@ -72,7 +73,7 @@
   ***Краткое описание***: В данном репозитории собраны задачи на написание запросов SQL с сайта LeetCode. Язык программирования - ***SQL*** 
 
 # Олимпиады по спортивному программированию в вузе 
-* *Топ 10 в команде на олимпиаде от Сколково по спортивному программированию, которое проходило в рамках XI технологической конференции Startup Village «Время инноваций»* 
+* *Топ 10 в команде на олимпиаде от Сколково по спортивному программированию, которое проходило в рамках XI технологической конференции Startup Village «Время инноваций»* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Startup%20Village.pdf))
 * *Участник CodeRun Yandex, 1 сезон (250 место)* 
 * *Призёр командной олимпиады RuCode 2023 (дивизион E-F)* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/7NmplFCtaBU.jpg))
 * *Победитель командной олимпиады RuCode 2024 (дивизион E-F)* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/RuCode%202024.png))
@@ -93,10 +94,9 @@
 * *Бронзовый призёр международной олимпиады в РУДН 2023 г.* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/рудн%20математика.pdf)) 
 * *Бронзовый призёр в команде 15th International Internet Mathematical Olympiad 2022* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/Internet%20Mathematical%20Olympiad%202022.png))
 
-# Хобби и увлечения 
-* *С 9 класса увелекаюсь настольным теннисом, имею 2 взрослый разряд, являюсь капитаном сборной по настольному теннису в своём университете*
-* *Велопробежки*
-* *Чтение книг Стивена Кинга*
+# Спортивные достижения 
+* *2 взрослый разряд по настольному теннису* ([*Зачётная классификационная книжка*](https://github.com/DenisStepanidenko/CV/blob/master/images/Спортивная%20книжка%20по%20настольному%20теннису.pdf))
+
 
 
 
