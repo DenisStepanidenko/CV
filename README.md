@@ -31,6 +31,7 @@
 * *Успешно прошёл очный этап **летнего ИТ-лагеря Холдинга T1** в период с 27 августа по 1 сентября 2024 года по программе: **Разработка Backend (Java)*** ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/IT%20лагерь%2C%20очный%20этап.pdf))
 * *Прошёл зимнюю школу по компьютерным наукам НИУ ВШЭ* ([*сертификат*](https://github.com/DenisStepanidenko/CV/blob/master/images/Зимняя%20школа%20ВШЭ.pdf))
 * *Участие в конференции Импульс Т1 2024 г.* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Конференция%20Импульс%20Т1.pdf))
+* *Участник Недели Будущего Преподавателя 2023* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Неделя%20будущего%20преподавателя.pdf))
 * *Прошёл курс по **продвинутой Java** от Alishev и DMdev*
 * *Прошёл курс по **Spring** от Alishev*
 * *Прошёл курс по **SQL(PostgreSQL)** от DMdev*
