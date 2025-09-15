@@ -89,7 +89,7 @@
 
 # Олимпиады по спортивному программированию в вузе 
 * *Топ 10 в команде на олимпиаде от Сколково по спортивному программированию, которое проходило в рамках XI технологической конференции Startup Village «Время инноваций»* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/Startup%20Village.pdf))
-* *Участник CodeRun Yandex, 1 сезон (250 место)* 
+* *Участник CodeRun Yandex, 1 сезон (250 место)* ([*подтверждение*](https://github.com/DenisStepanidenko/CV/blob/master/images/CodeRun%2C%20Yandex%2C%201%20сезон%20.jpg))
 * *Призёр командной олимпиады RuCode 2023 (дивизион E-F)* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/7NmplFCtaBU.jpg))
 * *Победитель командной олимпиады RuCode 2024 (дивизион E-F)* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/RuCode%202024.png))
 * *Прохождение Яндекс Тренировок 4.0* ([*диплом*](https://github.com/DenisStepanidenko/CV/blob/master/images/тренировки%204.0.pdf) )
