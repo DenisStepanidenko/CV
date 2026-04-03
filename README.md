@@ -9,6 +9,9 @@
 * *Почта - stepanidenko.den@mail.ru*
 * *Телефон - 89803177123*
 
+# Ключевые навыки
+*Java 11+, Spring Boot, Hibernate, Apache Kafka, PostgreSQL, REST API, Maven/Gradle, Git, JUnit, Mockito, Testcontainers*
+
 # Опыт работы
 * **Java-разработчик, ООО "ГК "Иннотех" (Холдинг T1) — с сентября 2024 г. по настоящее время**  
   * Все проекты реализованы для крупного финансового клиента.
