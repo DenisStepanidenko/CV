@@ -8,6 +8,7 @@
 * *Телеграмм - https://t.me/Denic_h* 
 * *Почта - stepanidenko.den@mail.ru*
 * *Телефон - 89803177123*
+* *Github - https://github.com/DenisStepanidenko*
 
 # Ключевые навыки
 *Java 11+, Spring Boot, Hibernate, Apache Kafka, PostgreSQL, REST API, Maven/Gradle, Git, JUnit, Mockito, Testcontainers*
@@ -38,18 +39,22 @@
   * Готовил учеников к ЕГЭ по профильной математике.
 
 # Образование 
-* **Бакалавр, РЭУ им. Г.В. Плеханова (Москва)** — 2021–2025  
-  Математическое обеспечение и администрирование информационных систем (Системное и интернет-программирование)
+* **Бакалавр, РЭУ им. Г.В. Плеханова (Москва)** — 2021–2025, [диплом](https://github.com/DenisStepanidenko/CV/blob/master/images/Скан%20диплома.pdf)   
+  * Направление: Математическое обеспечение и администрирование информационных систем, профиль Системное и интернет-программирование.
+  * Тема ВКР: Разработка автоматизированной системы подбора технических специалистов.
 
 * **Магистратура, ИТМО (Санкт-Петербург)** — 2025–2027  
-  Распределённые веб-сервисы / Web Scale Systems
+  * Направление: Инфокоммуникационные технологии и системы связи, профиль Распределённые веб-сервисы / Web Scale Systems (партнёрская программа ИТМО и ВК).
 
 # Дополнительное образование 
-* **Java-школа, ИТ-компания КРОК** — курс «Введение в Java и платформу разработки»
-* **Летний IT-лагерь Холдинга T1** — онлайн и очный этап, бэкенд-разработка на Java
+* **Java-школа, ИТ-компания КРОК** — курс «Введение в Java и платформу разработки». [(сертификат)](https://github.com/DenisStepanidenko/CV/blob/master/images/крок.pdf)
+* **Летний IT-лагерь Холдинга T1** — онлайн и очный этапы, бэкенд-разработка на Java. [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/IT%20лагерь%2C%20очный%20этап.pdf)
 
 # Достижения
-* **Победитель командной олимпиады RuCode 2024** (дивизион E-F)
-* **Серебряный призёр международной олимпиады по математике OMOUS 2023**
-* **Бронзовый призёр North Universities Mathematical Competition (NCUMC)**
-* **Участник ICPC Moscow Regional Contest 2024**
+* **Победитель командной олимпиады RuCode 2024 (дивизион E-F).**  [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/RuCode%202024.png)
+* **Призёр командной олимпиады RuCode 2023 (дивизион E-F).** [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/7NmplFCtaBU.jpg)
+* **Серебряный призёр в команде международной олимпиады по математике OMOUS 2023.** [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/туркменистан.pdf)
+* **Бронзовый призёр North Universities Mathematical Competition (NCUMC).** [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/noth.pdf)
+* **Призёр 3 степени X Всероссийской олимпиады по элементарной геометрии.** [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/геометрия.pdf)
+* **Бронзовый призёр математической олимпиады в РУДН 2023 г. .** [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/рудн%20математика.pdf)
+* **Бронзовый призёр в команде 15th International Internet Mathematical Olympiad 2022.** [(диплом)](https://github.com/DenisStepanidenko/CV/blob/master/images/Internet%20Mathematical%20Olympiad%202022.png)
