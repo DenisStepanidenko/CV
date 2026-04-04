@@ -1,9 +1,7 @@
 
-# Личные данные 
-![image](https://github.com/DenisStepanidenko/CV/assets/110686828/1cbb57f5-72a9-4b86-8c5d-ce31d69f00d0)
+# Степаниденко Денис Евгеньевич
 
-
-*Степаниденко Денис Евгеньевич, 23 года* 
+**Java-разработчик | 23 года**
 # Контактная информация 
 * *Телеграмм - https://t.me/Denic_h* 
 * *Почта - stepanidenko.den@mail.ru*
