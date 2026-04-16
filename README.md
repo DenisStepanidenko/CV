@@ -12,7 +12,7 @@
 *Java 11+, Spring Boot, Hibernate, Apache Kafka, PostgreSQL, REST API, Maven/Gradle, Git, JUnit, Mockito, Testcontainers*
 
 # Опыт работы
-* **Java-разработчик, ООО "ГК "Иннотех" (Холдинг T1) — с сентября 2024 г. по настоящее время**  
+* **Java-разработчик, ООО "ГК "Иннотех" (Холдинг T1) — с сентября 2024 г. по настоящее время**, [подтверждение](https://github.com/DenisStepanidenko/CV/blob/master/images/Справка%20с%20места%20работы.pdf) 
   * Все проекты реализованы для крупного финансового клиента.
   * Проект 1: Распределённая система конкурентной обработки задач.
     * Внедрил Apache Kafka в ядро системы.
